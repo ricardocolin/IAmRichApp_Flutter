@@ -1,0 +1,4 @@
+#Thu Feb 10 12:50:20 PST 2022
+base.0=/Users/ricardocolin/Desktop/Desktop/Projects/ANDROID/i_am_rich/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
